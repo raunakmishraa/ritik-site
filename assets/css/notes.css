@@ -1,0 +1,130 @@
+.contact-section {
+    background-color: rgba(245, 86, 81, .7);
+    padding-bottom: 20px;
+}
+
+.footer-section {
+    background-color: rgba(54, 19, 18, 0.9);
+    padding-top: 16px;
+}
+
+.footer-section h3 {
+    text-align: left;
+    color: #fff;
+    font-weight: 600;
+    font-size: calc(1.3rem + .6vw);
+    font-family: "Open Sans", sans-serif;
+}
+
+.copyright-section {
+    border-top: rgba(255, 255, 255, 0.25) solid 2px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 15px;
+    padding-top: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.copyright-section p a {
+    text-decoration: underline;
+    color: #fff;
+    text-decoration-color: #fff;
+}
+
+#social-link-div {
+    padding-bottom: 8px;
+}
+
+#social-link-div a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#social-link-div a i {
+    color: #F55651;
+}
+
+.bi-facebook,
+.bi-instagram,
+.bi-youtube {
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 576px) {
+    #followLinks {
+        margin-top: 12px;
+    }
+}
+
+input,
+select, textarea {
+    margin-top: 8px;
+    border-radius: 5px;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    padding: 6px;
+    border: 1px solid #ccc;
+    color: #fff;
+    max-width: 100%;
+    background-color: rgba(117, 41, 39, 0.8);
+}
+
+input::placeholder, textarea::placeholder {
+    color: #fff;
+}
+
+.choice-section, .upload-section, .get-section{
+    height: 95%;
+    display: flex;
+    position: relative;
+}
+
+.choice-div, .upload-div, .get-div{
+    background-color: rgba(255, 255, 255, .15);
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+}
+
+.choice-div h3{
+    color: #fff;
+}
+
+.upload-title{
+    color: #fff;
+}
+
+.upload-div h6, .get-div h6{
+    color: #fff;
+    margin-top: 5px;
+}
+
+#choice-upload, #choice-get, #notes-search{
+    appearance: none;
+    border: none;
+    outline: none;
+    background: none;
+    color: #FFF;
+    font-size: 20px;
+    background-color: #F55651;
+    padding: 12px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    cursor: pointer;
+    width: auto;
+    margin: 24px;
+}
+
+@media screen and (min-width: 513px) {
+    #choice-upload{
+        float: left;
+    }
+    
+    #choice-get{
+        float: right;
+    }
+}

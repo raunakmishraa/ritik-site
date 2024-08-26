@@ -1,0 +1,804 @@
+{
+    "Mocktest": [
+      {
+        "Questions": "Rs. 88.44 is paid in Mohar, Suki and Paisa in the ratio of 3:2:1, then the number of Suki is",
+        "option1": "132",
+        "option2": "88",
+        "option3": "44",
+        "option4": "92",
+        "opc": "option3"
+      },
+      {
+        "Questions": "The compound interest on Rs. 30000 at 7% per annum is Rs.4347. The period (in years) is?",
+        "option1": "2",
+        "option2": "2.5",
+        "option3": "3",
+        "option4": "4",
+        "opc": "option1"
+      },
+      {
+        "Questions": "The difference between simple and compound interest compounded annually on a certain sum of money for 2 years at 4% per annum is Rs 1. The sum (in Rs.) is?",
+        "option1": "625",
+        "option2": "630",
+        "option3": "640",
+        "option4": "650",
+        "opc": "option1"
+      },
+      {
+        "Questions": "Find the simple interest on Rs. 2000 at 6.25% per annum for the period from 4th feb 2005 to 18th April 2005?",
+        "option1": "Rs. 25",
+        "option2": "Rs. 30",
+        "option3": "Rs. 40",
+        "option4": "Rs. 35",
+        "opc": "option1"
+      },
+      {
+        "Questions": "How much will it take an amount of Rs. 450 to yield 81 as interest at 4.5% per annum amount to simple interest?",
+        "option1": "3.5 yrs",
+        "option2": "4 yrs",
+        "option3": "4.5 yrs",
+        "option4": "5 yrs",
+        "opc": "option2"
+      },
+      {
+        "Questions": "A person lent a certain sum of money at 4% simple interest and in 8 years the interest amounted to Rs. 340 less than amount lent, find the sum lent?",
+        "option1": "Rs. 400",
+        "option2": "Rs. 450",
+        "option3": "Rs. 500",
+        "option4": "Rs. 600",
+        "opc": "option3"
+      },
+      {
+        "Questions": "A sum of money at simple interest amounts to Rs. 815 in 3 years and Rs. 854 in 4 years, the sum is",
+        "option1": "Rs. 650",
+        "option2": "Rs. 690",
+        "option3": "Rs. 698",
+        "option4": "Rs 700",
+        "opc": "option3"
+      },
+      {
+        "Questions": "The current population of town is 10,000, if the population of the town is increasing at the rate of 10% every year, then the population of town after three years will be:",
+        "option1": "13,000",
+        "option2": "13,310",
+        "option3": "13,300",
+        "option4": "13,330",
+        "opc": "option2"
+      },
+      {
+        "Questions": "A sum lent out at 12% p.a. compound interest for two years amounts to Rs. 15660. The sum lent is",
+        "option1": "Rs. 120,000",
+        "option2": "Rs. 12,250",
+        "option3": "Rs. 12,484",
+        "option4": "Rs. 12,880",
+        "opc": "option3"
+      },
+      {
+        "Questions": "A motorcycle which is supposed to depreciate at the rate of 5% per year was sold at Rs. 57000 after a year. At what price was it bought?",
+        "option1": "90,000",
+        "option2": "70,000",
+        "option3": "85,000",
+        "option4": "60,000",
+        "opc": "option4"
+      },
+      {
+        "Questions": "In how many years will a sum of money becomes double at 10% p.a. simple interest?",
+        "option1": "5 years ",
+        "option2": "10 years",
+        "option3": "15 years",
+        "option4": "20 years",
+        "opc": "option2"
+      },
+      {
+        "Questions": "If the compound interest on a certain sum of money for 2 years at 10% per annum is Rs. 2100, the simple interest on it at the same for 2 years will be?",
+        "option1": "Rs. 1000",
+        "option2": "Rs. 1500",
+        "option3": "Rs. 2000",
+        "option4": "Rs. 2500",
+        "opc": "option3"
+      },
+      {
+        "Questions": "The difference between simple and compound interest in a certain sum in 2 years at 15% p.a. is Rs. 144. The sum is",
+        "option1": "Rs. 6000",
+        "option2": "Rs. 6200",
+        "option3": "Rs. 6400",
+        "option4": "Rs. 6500",
+        "opc": "option3"
+      },
+      {
+        "Questions": "A sum of Rs. 12500 amounts to Rs. 15,500 in 4 years at the rate of simple interest, what is the rate of interest?",
+        "option1": "3%",
+        "option2": "4%",
+        "option3": "5%",
+        "option4": "6%",
+        "opc": "option4"
+      },
+      {
+        "Questions": "The least number of complete years in which a sum of money put out at 20% compound interest will be more than double is?",
+        "option1": "3",
+        "option2": "4",
+        "option3": "5",
+        "option4": "6",
+        "opc": "option2"
+      },
+      {
+        "Questions": "What will be the compound interest on a sum of Rs. 25,000 after 3 years at the rate of 12% p.a.?",
+        "option1": "Rs. 9000.30",
+        "option2": "Rs. 9720",
+        "option3": "Rs. 10123.20",
+        "option4": "Rs. 10483.20",
+        "opc": "option3"
+      },
+      {
+        "Questions": "The difference between SI and CI in a certain sum is 2 years at 12% p.a. is Rs. 216. The sum is",
+        "option1": "Rs. 14,500",
+        "option2": "Rs. 1500",
+        "option3": "Rs. 15,500",
+        "option4": "Rs. 16,000",
+        "opc": "option2"
+      },
+      {
+        "Questions": "A sum of money amounts to Rs. 744 in 23 years and Rs. 816 in 3 years. The rate of interest is",
+        "option1": "15%",
+        "option2": "8%",
+        "option3": "10%",
+        "option4": "12%",
+        "opc": "option4"
+      },
+      {
+        "Questions": "A sum of money amounts to Rs. 767 in 3 years and Rs. 806 in 4 years. The sum is",
+        "option1": "Rs. 600",
+        "option2": "Rs. 650",
+        "option3": "Rs. 700",
+        "option4": "Rs. 675",
+        "opc": "option2"
+      },
+      {
+        "Questions": "The difference between the CI and SI on Rs. 2500 for 2 years at 4% per annum is",
+        "option1": "Rs 40",
+        "option2": "Rs 45",
+        "option3": "Rs 14",
+        "option4": "Rs 4",
+        "opc": "option4"
+      },
+      {
+        "Questions": "The sum of the ages of the father and his son is 53 years. Eight years ago the father was eight times as old as his son, the present age of son is,",
+        "option1": "12 years",
+        "option2": "20 years",
+        "option3": "35 years",
+        "option4": "12 years",
+        "opc": "option4"
+      },
+      {
+        "Questions": "? % of 932 + 30 = 309.6",
+        "option1": "25",
+        "option2": "30",
+        "option3": "35",
+        "option4": "40",
+        "opc": "option1"
+      },
+      {
+        "Questions": "The sum of 3 numbers in A.P. is 6 and the sum of their cubes is 232, then the number is",
+        "option1": "-2,2,6",
+        "option2": "-1,1,3",
+        "option3": "1,3,5",
+        "option4": "1,4,7",
+        "opc": "option1"
+      },
+      {
+        "Questions": "If k-6,k-9,4 are in geometric sequence, then k=?",
+        "option1": "7",
+        "option2": "15",
+        "option3": "-7",
+        "option4": "both 7 and 15",
+        "opc": "option4"
+      },
+      {
+        "Questions": "The sum of all natural numbers less than 100 which are exactly divisible by 7 is",
+        "option1": "446",
+        "option2": "844",
+        "option3": "745",
+        "option4": "735",
+        "opc": "option4"
+      },
+      {
+        "Questions": "Choose the word which is least like other words: Telescope, Microscope, Binoculars, Thermoscope",
+        "option1": "Telescope",
+        "option2": "Microscope",
+        "option3": "Binoculars",
+        "option4": "Thermoscope",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Choose the word which is least like other words: 231, 333, 556, 777",
+        "option1": "231",
+        "option2": "333",
+        "option3": "556",
+        "option4": "777",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Find missing term: AZ, CX, FU, ?",
+        "option1": "IR",
+        "option2": "IV",
+        "option3": "JQ",
+        "option4": "KP",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Find missing term: Z, U, Q, ?, L",
+        "option1": "I",
+        "option2": "K",
+        "option3": "M",
+        "option4": "N",
+        "opc": "option4"
+      },
+      {
+        "Questions": "Find the missing term: BF, CH, ?, HO, LT",
+        "option1": "DN",
+        "option2": "EL",
+        "option3": "EK",
+        "option4": "EM",
+        "opc": "option3"
+      },
+      {
+        "Questions": "If NOIDA is written as 38658, how will INDIA be written?",
+        "option1": "36568",
+        "option2": "63568",
+        "option3": "63569",
+        "option4": "65368",
+        "opc": "option2"
+      },
+      {
+        "Questions": "If 315135 stands for COME, what will MOC stand for?",
+        "option1": "315",
+        "option2": "512",
+        "option3": "513",
+        "option4": "153",
+        "opc": "option3"
+      },
+      {
+        "Questions": "If E=5, HOTEL=12, how will you code LAMB?",
+        "option1": "7",
+        "option2": "10",
+        "option3": "26",
+        "option4": "28",
+        "opc": "option1"
+      },
+      {
+        "Questions": "If O=16, FOR=42, then FRONT is",
+        "option1": "61",
+        "option2": "65",
+        "option3": "73",
+        "option4": "78",
+        "opc": "option4"
+      },
+      {
+        "Questions": "If DRIVER=12, PEDESTRIAN=20, ACCIDENT=16, then CAR is",
+        "option1": "3",
+        "option2": "6",
+        "option3": "8",
+        "option4": "10",
+        "opc": "option2"
+      },
+      {
+        "Questions": "If A=2, M=26, Z=52, then BET is",
+        "option1": "44",
+        "option2": "54",
+        "option3": "64",
+        "option4": "72",
+        "opc": "option2"
+      },
+      {
+        "Questions": "If A=26, SUN=27, then, CAT is",
+        "option1": "24",
+        "option2": "27",
+        "option3": "57",
+        "option4": "58",
+        "opc": "option3"
+      },
+      {
+        "Questions": "If BAT=23, CAT=24, then, BALL is",
+        "option1": "27",
+        "option2": "28",
+        "option3": "32",
+        "option4": "120",
+        "opc": "option1"
+      },
+      {
+        "Questions": "Showing the man receiving the prize, Saroj said, \"He is the brother of my uncle's daughter.\" Who is the man to Saroj?",
+        "option1": "son",
+        "option2": "brother-in-law",
+        "option3": "cousin",
+        "option4": "uncle",
+        "opc": "option3"
+      },
+      {
+        "Questions": "If Kamal says, \"Ravi's mother is the only daughter of my mother\", how is Kamal related to Ravi?",
+        "option1": "grandfather",
+        "option2": "father",
+        "option3": "brother",
+        "option4": "none of these",
+        "opc": "option4"
+      },
+      {
+        "Questions": "X introduces Y saying, \"He is the husband of the granddaughter of the father of my father.\" How is Y related to X?",
+        "option1": "brother",
+        "option2": "son",
+        "option3": "brother-in-law",
+        "option4": "nephew",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Pointing to a girl in the photograph, Amar said, \"Her mother's brother is the only son of my mother's father.\" How is the girl's mother related to Amar?",
+        "option1": "mother",
+        "option2": "sister",
+        "option3": "aunt",
+        "option4": "grandmother",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Rahul told Anand, \"Yesterday I defeated the only brother of the daughter of my grandmother.\" Whom did Rahul defeat?",
+        "option1": "son",
+        "option2": "father",
+        "option3": "cousin",
+        "option4": "brother",
+        "opc": "option2"
+      },
+      {
+        "Questions": "Pratima ranks 18th in a class of 49 students. Her rank from the last is:",
+        "option1": "18",
+        "option2": "19",
+        "option3": "20",
+        "option4": "32",
+        "opc": "option4"
+      },
+      {
+        "Questions": "Agni ranks ninth from the top and thirteenth from the bottom in a class. How many students are there in the class?",
+        "option1": "38",
+        "option2": "45",
+        "option3": "46",
+        "option4": "50",
+        "opc": "option1"
+      },
+      {
+        "Questions": "Three persons are standing in a queue. There are five persons between A and B and eight persons between a head of C and 21 behind A, what could be the minimum number of persons on the queue?",
+        "option1": "28",
+        "option2": "38",
+        "option3": "48",
+        "option4": "58",
+        "opc": "option1"
+      },
+      {
+        "Questions": "How many digits are in the book having 500 pages?",
+        "option1": "1392",
+        "option2": "3894",
+        "option3": "3895",
+        "option4": "3896",
+        "opc": "option2"
+      },
+      {
+        "Questions": "In a group there are 20 people. They made handshakes to each other. How many handshakes they made altogether?",
+        "option1": "210",
+        "option2": "200",
+        "option3": "190",
+        "option4": "92",
+        "opc": "option3"
+      },
+      {
+        "Questions": "If today is Saturday, what day after 500 days from today?",
+        "option1": "Sunday",
+        "option2": "Monday",
+        "option3": "Tuesday",
+        "option4": "Saturday",
+        "opc": "option3"
+      },
+      {
+        "Questions": "In a farm, there are goats and hens. They have 96 feet and 25 heads. How many goats are there?",
+        "option1": "21",
+        "option2": "22",
+        "option3": "20",
+        "option4": "12",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Synonym of: labor",
+        "option1": "toil",
+        "option2": "regret",
+        "option3": "proceed",
+        "option4": "merry",
+        "opc": "option1"
+      },
+      {
+        "Questions": "Synonym of: slight",
+        "option1": "delicate",
+        "option2": "classify",
+        "option3": "shape",
+        "option4": "spread",
+        "opc": "option1"
+      },
+      {
+        "Questions": "Synonym of: shape",
+        "option1": "manage",
+        "option2": "marginal",
+        "option3": "manipulate",
+        "option4": "rank",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Synonym of: tumult",
+        "option1": "negotiate",
+        "option2": "ain",
+        "option3": "commotion",
+        "option4": "deal",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Synonym of: shrewd",
+        "option1": "nice",
+        "option2": "careful",
+        "option3": "temper",
+        "option4": "noble",
+        "opc": "option2"
+      },
+      {
+        "Questions": "Synonym of: labyrinth",
+        "option1": "mad",
+        "option2": "marginal",
+        "option3": "manipulate",
+        "option4": "maze",
+        "opc": "option4"
+      },
+      {
+        "Questions": "Do you still dream to be ___ actor?",
+        "option1": "a",
+        "option2": "an",
+        "option3": "the",
+        "option4": "none",
+        "opc": "option1"
+      },
+      {
+        "Questions": "What's the name of ___ woman in the yellow skirt?",
+        "option1": "a",
+        "option2": "an",
+        "option3": "the",
+        "option4": "none",
+        "opc": "option3"
+      },
+      {
+        "Questions": "It is ___ honour to be present.",
+        "option1": "a",
+        "option2": "an",
+        "option3": "the",
+        "option4": "none",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Sonali found __ egg on the nest.",
+        "option1": "a",
+        "option2": "an",
+        "option3": "the",
+        "option4": "none",
+        "opc": "option2"
+      },
+      {
+        "Questions": "We went to visit ___ Sun Temple at Konark to pray.",
+        "option1": "a",
+        "option2": "an",
+        "option3": "the",
+        "option4": "none",
+        "opc": "option4"
+      },
+      {
+        "Questions": "They crossed ___ Black Sea by boat.",
+        "option1": "a",
+        "option2": "an",
+        "option3": "the",
+        "option4": "none",
+        "opc": "option4"
+      },
+      {
+        "Questions": "One word for extreme old age when a person behaves like a fool is",
+        "option1": "imbecility",
+        "option2": "senility",
+        "option3": "dotage",
+        "option4": "superannuation",
+        "opc": "option3"
+      },
+      {
+        "Questions": "One word for that which cannot be seen",
+        "option1": "Invisible",
+        "option2": "intangible",
+        "option3": "insensible",
+        "option4": "unseen",
+        "opc": "option1"
+      },
+      {
+        "Questions": "One word for detailed plan of journey",
+        "option1": "Schedule",
+        "option2": "itinerary",
+        "option3": "travelogue",
+        "option4": "travelkit",
+        "opc": "option2"
+      },
+      {
+        "Questions": "I learned to drive __ the age of 18.",
+        "option1": "in",
+        "option2": "for",
+        "option3": "of",
+        "option4": "at",
+        "opc": "option4"
+      },
+      {
+        "Questions": "It sounds great __ theory, but will your plan work?",
+        "option1": "in",
+        "option2": "for",
+        "option3": "on",
+        "option4": "about",
+        "opc": "option1"
+      },
+      {
+        "Questions": "What is the time ___ your watch?",
+        "option1": "by",
+        "option2": "on",
+        "option3": "over",
+        "option4": "in",
+        "opc": "option1"
+      },
+      {
+        "Questions": "He ran up the hill __ he was out of breath.",
+        "option1": "for",
+        "option2": "over",
+        "option3": "until",
+        "option4": "at",
+        "opc": "option1"
+      },
+      {
+        "Questions": "We have been ___ a lot lately.",
+        "option1": "with",
+        "option2": "intangible",
+        "option3": "of",
+        "option4": "through",
+        "opc": "option4"
+      },
+      {
+        "Questions": "It has been raining ___ Sunday.",
+        "option1": "by",
+        "option2": "over",
+        "option3": "since",
+        "option4": "for",
+        "opc": "option3"
+      },
+      {
+        "Questions": "The cat jumped __ the wall into my neighbour's garden.",
+        "option1": "with",
+        "option2": "over",
+        "option3": "out of",
+        "option4": "at",
+        "opc": "option2"
+      },
+      {
+        "Questions": "Whom did they vote __?",
+        "option1": "with",
+        "option2": "to",
+        "option3": "of",
+        "option4": "for",
+        "opc": "option4"
+      },
+      {
+        "Questions": "There's a chair __ my desk.",
+        "option1": "with",
+        "option2": "over",
+        "option3": "behind",
+        "option4": "at",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Pessimism is bad __ your health.",
+        "option1": "with",
+        "option2": "over",
+        "option3": "of",
+        "option4": "for",
+        "opc": "option4"
+      },
+      {
+        "Questions": "Who is the youngest CEO of commercial banks in Nepal?",
+        "option1": "Roshan Kumar Neupane",
+        "option2": "Raj Krishna Nepal",
+        "option3": "Anil Chhetri",
+        "option4": "Rishav Kumar Neupane",
+        "opc": "option1"
+      },
+      {
+        "Questions": "What does SEBON Stands for?",
+        "option1": "Securities Board of Nepal",
+        "option2": "Special Board of Nepal",
+        "option3": "Special Economic Board of Nepal",
+        "option4": "None of these",
+        "opc": "option1"
+      },
+      {
+        "Questions": "Which is the central bank of Nepal?",
+        "option1": "Nepal Bank",
+        "option2": "Rastriya Banijya Bank",
+        "option3": "Nepal Rastra Bank",
+        "option4": "None of these",
+        "opc": "option3"
+      },
+      {
+        "Questions": "The height of Mt. Everest is:",
+        "option1": "8848 m",
+        "option2": "8848.48 m",
+        "option3": "8848.26 m",
+        "option4": "8848.86 m",
+        "opc": "option4"
+      },
+      {
+        "Questions": "Who invented steam engine?",
+        "option1": "Thomas Edison",
+        "option2": "Thomas Newcomen",
+        "option3": "Albert Einstein",
+        "option4": "Pratima Poudel",
+        "opc": "option2"
+      },
+      {
+        "Questions": "How many players play polo sport?",
+        "option1": "5",
+        "option2": "6",
+        "option3": "4",
+        "option4": "8",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Who is the current president of FNCCI?",
+        "option1": "Bhawani Rana",
+        "option2": "Arjun Sah",
+        "option3": "Maha Prasad Adhikari",
+        "option4": "Somnath bastola",
+        "opc": "option1"
+      },
+      {
+        "Questions": "Full form of Wi-Fi is",
+        "option1": "Wireless-Fertility",
+        "option2": "Wireless- Fidelity",
+        "option3": "Wired-Fertility",
+        "option4": "None of these",
+        "opc": "option2"
+      },
+      {
+        "Questions": "Full form of WTO is",
+        "option1": "World Tranfomer Organization",
+        "option2": "World Trademill Organization",
+        "option3": "World Trade Organization",
+        "option4": "None of these",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Study of insect is called",
+        "option1": "Nidology",
+        "option2": "Entomology",
+        "option3": "Pedalogy",
+        "option4": "None of these",
+        "opc": "option2"
+      },
+      {
+        "Questions": "Permanent secretariat of SAARC is located in:",
+        "option1": "Kathmandu",
+        "option2": "Delhi",
+        "option3": "Burma",
+        "option4": "Beijing",
+        "opc": "option1"
+      },
+      {
+        "Questions": "Which country is Nepal's largest trading partner?",
+        "option1": "China",
+        "option2": "Burma",
+        "option3": "India",
+        "option4": "Japan",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Geeta was Written by:",
+        "option1": "Valmiki",
+        "option2": "Devdas",
+        "option3": "Shri Krishna",
+        "option4": "Ved vyas",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Father of Economics is",
+        "option1": "Adobe Smith",
+        "option2": "Charles Babbage",
+        "option3": "Anish Bhattarai",
+        "option4": "Lavioser",
+        "opc": "option1"
+      },
+      {
+        "Questions": "Father of Public Health is",
+        "option1": "Sushma Shiwakoti",
+        "option2": "Labioser",
+        "option3": "Charles",
+        "option4": "Cholera",
+        "opc": "option4"
+      },
+      {
+        "Questions": "Country with no written constitution is",
+        "option1": "USA",
+        "option2": "UAE",
+        "option3": "China",
+        "option4": "UK",
+        "opc": "option4"
+      },
+      {
+        "Questions": "The only South Asian country to prohibit the sales of cigarette is",
+        "option1": "Bangladesh",
+        "option2": "India",
+        "option3": "Sri Lanka",
+        "option4": "Bhutan",
+        "opc": "option4"
+      },
+      {
+        "Questions": "Nepal Rastra Bank submits its annual report to",
+        "option1": "Auditor General of Nepal",
+        "option2": "Government of Nepal",
+        "option3": "Parliament of Nepal",
+        "option4": "President",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Principle of Beaurarucracy was given by",
+        "option1": "Max Weber",
+        "option2": "Thomas Newcomen",
+        "option3": "Lavioser",
+        "option4": "Adobe Smith",
+        "opc": "option1"
+      },
+      {
+        "Questions": "Number of permanent members in UN security Council is",
+        "option1": "7",
+        "option2": "6",
+        "option3": "5",
+        "option4": "3",
+        "opc": "option3"
+      },
+      {
+        "Questions": "Olympic games are held in every ___ years?",
+        "option1": "4",
+        "option2": "5",
+        "option3": "6",
+        "option4": "7",
+        "opc": "option1"
+      },
+      {
+        "Questions": "National game of Bhutan is",
+        "option1": "Polo",
+        "option2": "Archery",
+        "option3": "Kabbaddi",
+        "option4": "Soccer",
+        "opc": "option2"
+      },
+      {
+        "Questions": "Capital of Lumbini Province is",
+        "option1": "Kapilvastu",
+        "option2": "Tauliwaha",
+        "option3": "Deukhuri",
+        "option4": "Gorahi",
+        "opc": "option4"
+      },
+      {
+        "Questions": "Full form of GATT is",
+        "option1": "Generals Abide for Trade and Tarrifs",
+        "option2": "General Agreement on Tariffs and Trade",
+        "option3": "Geneted Additional Tax on Trade",
+        "option4": "None of these",
+        "opc": "option2"
+      },
+      {
+        "Questions": "Which district of Nepal is connected to 10 districts",
+        "option1": "Makwanpur",
+        "option2": "Dang",
+        "option3": "Darchula",
+        "option4": "Mahottari",
+        "opc": "option1"
+      }
+    ]
+}

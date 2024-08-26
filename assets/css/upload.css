@@ -1,0 +1,93 @@
+.contact-section {
+    background-color: rgba(245, 86, 81, .7);
+    padding-bottom: 20px;
+}
+
+.footer-section {
+    background-color: rgba(54, 19, 18, 0.9);
+    padding-top: 16px;
+}
+
+.footer-section h3 {
+    text-align: left;
+    color: #fff;
+    font-weight: 600;
+    font-size: calc(1.3rem + .6vw);
+    font-family: "Open Sans", sans-serif;
+}
+
+.copyright-section {
+    border-top: rgba(255, 255, 255, 0.25) solid 2px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 15px;
+    padding-top: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.copyright-section p a {
+    text-decoration: underline;
+    color: #fff;
+    text-decoration-color: #fff;
+}
+
+#social-link-div {
+    padding-bottom: 8px;
+}
+
+#social-link-div a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#social-link-div a i {
+    color: #F55651;
+}
+
+.bi-facebook,
+.bi-instagram,
+.bi-youtube {
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 576px) {
+    #followLinks {
+        margin-top: 12px;
+    }
+}
+
+.upload-section{
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.upload-title{
+    color: #fff;
+    text-align: center;
+}
+
+input, select {
+    margin-top: 8px;
+    width: 100%;
+    border-radius: 5px;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    padding: 6px;
+    border: 1px solid #ccc;
+    color: #fff;
+    background-color: rgba(117, 41, 39, 0.8);
+}
+
+input::placeholder {
+    color: #fff;
+}
+
+#mock-div {
+    background-color: rgba(255, 255, 255, .15);
+    border-radius: 5px;
+    margin: 12px;
+}
